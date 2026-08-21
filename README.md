@@ -8,11 +8,11 @@ Focused on backend development, clean code, performance optimization, production
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, JavaScript, TypeScript, SQL
+**Languages:** Java, JavaScript, SQL
 **Backend:** Spring Boot, REST APIs, JPA, Hibernate, MapStruct
 **Frontend:** Angular, HTML, CSS
 **Databases:** MongoDB, MySQL, Oracle
-**DevOps:** Docker, GitHub Actions, Nginx, Linux
+**DevOps:** Docker, GitHub Actions, Linux
 **Tools:** Git, GitHub, IntelliJ IDEA, VS Code, Postman
 
 ## 🚀 Projects
@@ -21,8 +21,8 @@ Focused on backend development, clean code, performance optimization, production
 
 `Java 17` `Spring Boot` `MySQL` `HTML` `CSS` `JavaScript` `Docker`
 
-🔗 **Live:** [View Application](https://github.com/priyan06/complaint-management-system)
-💻 **Repository:** [View Source](YOUR_REPOSITORY_URL)
+🔗 **Live:** [View Application](https://cmpl-mgmt.wolfczartech.net)
+💻 **Repository:** [View Source](https://github.com/priyan06/complaint-management-system)
 
 ## 🎯 Areas of Interest
 
@@ -43,8 +43,9 @@ Focused on backend development, clean code, performance optimization, production
 
 ## 🤝 Connect With Me
 
-**LinkedIn:** [LinkedIn Profile](YOUR_LINKEDIN_URL)
-**GitHub:** [GitHub Profile](YOUR_GITHUB_URL)
+📧 **Email:** [yourname@gmail.com](mailto:yourname@gmail.com)
+💼 **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/ShanmugaPriyanS06)
+
 
 ---
 
