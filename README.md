@@ -4,6 +4,8 @@
 
 Software Engineer experienced in building scalable and maintainable web applications using **Java, Spring Boot, Angular, REST APIs, and databases**.
 
+Used AI-assisted development tools to improve coding, debugging, documentation, code review and problem solving.
+
 Focused on backend development, clean code, performance optimization, production support, and deployment automation.
 
 ## 🛠️ Tech Stack
@@ -13,7 +15,7 @@ Focused on backend development, clean code, performance optimization, production
 **Frontend:** Angular, HTML, CSS
 **Databases:** MongoDB, MySQL, Oracle
 **DevOps:** Docker, GitHub Actions, Linux
-**Tools:** Git, GitHub, IntelliJ IDEA, VS Code, Postman
+**Tools:** Git, GitHub, GitHub Copilot, Antigravity IDE, IntelliJ IDEA, VS Code, Postman
 
 ## 🚀 Projects
 
@@ -32,6 +34,7 @@ Focused on backend development, clean code, performance optimization, production
 * Database Optimization
 * CI/CD & DevOps
 * System Design
+* AI-Assisted Development
 
 ## 🌱 Currently Learning
 
