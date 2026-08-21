@@ -43,8 +43,8 @@ Focused on backend development, clean code, performance optimization, production
 
 ## 🤝 Connect With Me
 
-📧 **Email:** [yourname@gmail.com](mailto:yourname@gmail.com)
-💼 **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/ShanmugaPriyanS06)
+📧 **Email:** [yourname@gmail.com](mailto:shanmugapriyan19062002@gmail.com)
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ShanmugaPriyanS06)
 
 
 ---
