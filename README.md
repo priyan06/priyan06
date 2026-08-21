@@ -21,7 +21,7 @@ Focused on backend development, clean code, performance optimization, production
 
 `Java 17` `Spring Boot` `MySQL` `HTML` `CSS` `JavaScript` `Docker`
 
-🔗 **Live:** [View Application]([YOUR_LIVE_URL](https://github.com/priyan06/complaint-management-system))
+🔗 **Live:** [View Application]([https://github.com/priyan06/complaint-management-system]))
 💻 **Repository:** [View Source](YOUR_REPOSITORY_URL)
 
 ## 🎯 Areas of Interest
