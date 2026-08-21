@@ -1,6 +1,6 @@
 # Hi, I'm Shanmuga Priyan 👋
 
-### Software Engineer | Java Full-Stack Developer
+### Senior Associate Software Engineer | Java Full-Stack Developer
 
 Software Engineer experienced in building scalable and maintainable web applications using **Java, Spring Boot, Angular, REST APIs, and databases**.
 
